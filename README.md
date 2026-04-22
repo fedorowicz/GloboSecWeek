@@ -54,9 +54,6 @@ Edição 2025.
 
 
   - [**☁️ Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-
-<img width="521" height="238" alt="Image" src="https://github.com/user-attachments/assets/1d89910b-77c7-4b51-93be-b13746625817" />
-
   - [**🔐 Security, Compliance and Identity (SC-900)**](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
   - [**🛡️ CompTIA Security+**](https://www.comptia.org/en/certifications/security)
   - [**🛡️ CompTIA A+**](https://www.comptia.org/en/certifications/a/)
