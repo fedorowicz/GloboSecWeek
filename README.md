@@ -27,7 +27,7 @@ Edição 2025.
 
 - #### Desenvolvimento Seguro de Aplicações:
   - [GitHub - globocom/secDevLabs: Um laboratório de aprendizado sobre desenvolvimento seguro](https://github.com/globocom/secDevLabs)
-  - [OWASP Top Ten | OWASP Foundation](https://owasp.org/www-project-top-ten/)
+  - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
   - [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
   - [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 
