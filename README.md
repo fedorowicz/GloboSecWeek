@@ -10,7 +10,7 @@ Edição 2025.
 
 ## 📆 Eventos de Tecnologia e SegInfo
 
-- [50 principais eventos de Tecnologia no mundo (2026)](https://www.linkedin.com/pulse/eventos-de-tecnologia-e-seguran%C3%A7a-2026-eduardo-fedorowicz-pmouf/)
+- [**50 principais eventos de Tecnologia no mundo (2026)**](https://www.linkedin.com/pulse/eventos-de-tecnologia-e-seguran%C3%A7a-2026-eduardo-fedorowicz-pmouf/)
 - [Mapa Interativo com diversos eventos de Segurança no Brasil e no mundo](https://infosecmap.com/explore-map/?type=event&search_location=Visible%20map%20area&lat=-15.91675&lng=-43.87506&proximity=2411.68&sort=order-by-date)
 
 ---
@@ -26,7 +26,7 @@ Edição 2025.
   - Autora: Sabrina Ramos (@meninadecybersec)
 
 - #### Desenvolvimento Seguro de Aplicações:
-  - [GitHub - globocom/secDevLabs: Um laboratório de aprendizado sobre desenvolvimento seguro](https://github.com/globocom/secDevLabs)
+  - [**GitHub - globocom/secDevLabs: Um laboratório de aprendizado sobre desenvolvimento seguro**](https://github.com/globocom/secDevLabs)
   - [OWASP Top Ten](https://owasp.org/www-project-top-ten/)
   - [OWASP Application Security Verification Standard (ASVS)](https://owasp.org/www-project-application-security-verification-standard/)
   - [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
@@ -49,14 +49,14 @@ Edição 2025.
 
 ## 🏅 Certificações em Segurança 
 
-- [Security Certification Roadmap - Paul Jerimy Media](https://pauljerimy.com/security-certification-roadmap/)
+- [**Security Certification Roadmap**](https://pauljerimy.com/security-certification-roadmap/)
   - Quadro geral de certificações em Segurança, custos e links com mais informações
   - Autor: Paul Jerimy
 
 - ####  Certificações Relevantes (com chances de voucher gratuito)
 
 
-  - [**☁️ Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
-  - [**🔐 Security, Compliance and Identity (SC-900)**](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
-  - [**🛡️ CompTIA Security+**](https://www.comptia.org/en/certifications/security)
-  - [**🛡️ CompTIA A+**](https://www.comptia.org/en/certifications/a/)
+  - [☁️ Azure Fundamentals (AZ-900)](https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+  - [🔐 Security, Compliance and Identity (SC-900)](https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification)
+  - [🛡️ CompTIA Security+](https://www.comptia.org/en/certifications/security)
+  - [🛡️ CompTIA A+](https://www.comptia.org/en/certifications/a/)
