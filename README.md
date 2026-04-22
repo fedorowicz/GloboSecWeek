@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/GloboSecWeek.png" allign="center" height=""/>
+  <img src="GloboSecWeek.png" allign="center" height=""/>
   <!-- logo font: Agency FB Bold Condensed -->
 </p>
 
