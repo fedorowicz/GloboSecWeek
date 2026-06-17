@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-Edição 2025.
+Edição 2026.
 </p>
 
 # [GloboSec Week] Links:
