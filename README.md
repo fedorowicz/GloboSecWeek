@@ -173,6 +173,7 @@
   - Modelo aberto de maturidade para formular e implementar uma estratégia de segurança de software adequada aos riscos da organização
 - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
     - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros)
+      
 ---
 
 ## 🎬 Segurança de Conteúdo (Antipirataria, Vazamento e Ativos de Mídia)
