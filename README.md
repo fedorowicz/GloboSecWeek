@@ -27,7 +27,7 @@
 
 --- 
 
-## 🧭 Governança e Privacidade
+## 🧭 Governança, Riscos e Privacidade
 
 - [NIST Cybersecurity Framework (CSF) 2.0](https://www.nist.gov/cyberframework)
   - Framework de governança de risco cibernético, gratuito e referência mundial, organizado em 6 funções (Governar, Identificar, Proteger, Detectar, Responder e Recuperar)
@@ -129,7 +129,6 @@
   - Guia prático de como conduzir threat modeling no ciclo de desenvolvimento
 - [OWASP SAMM (Software Assurance Maturity Model)](https://owasp.org/www-project-samm/)
   - Modelo aberto de maturidade para formular e implementar uma estratégia de segurança de software adequada aos riscos da organização
-- Ver também [OWASP Top 10 for LLM Applications](#%EF%B8%8F-ciberseguranca-blue-team-red-team-identidade-cloud-ctem-e-ai-security), essencial para produtos que embarcam IA/LLMs
 
 ---
 
