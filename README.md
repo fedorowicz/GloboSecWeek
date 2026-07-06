@@ -90,10 +90,7 @@
     - Ferramenta visual e interativa para mapear técnicas do ATT&CK
 - #### Cloud Security
   - [Certificate of Cloud Security Knowledge (CCSK) — Cloud Security Alliance](https://cloudsecurityalliance.org/education/ccsk)
-    - Certificação de referência, vendor-neutral, em segurança de nuvem
-- #### AI Security
-  - [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
-    - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros); também relevante para times de Segurança de Produtos que embarcam IA
+    - Certificação de referência, vendor-neutral, em segurança de nuvem  
 - #### 🎯 Red Team — Cursos Gratuitos e Referências de Estudo
   - **AI Red Teaming**
     - [Microsoft AI Red Team Training](https://learn.microsoft.com/en-us/security/ai-red-team/training)
@@ -151,7 +148,8 @@
   - Guia prático de como conduzir threat modeling no ciclo de desenvolvimento
 - [OWASP SAMM (Software Assurance Maturity Model)](https://owasp.org/www-project-samm/)
   - Modelo aberto de maturidade para formular e implementar uma estratégia de segurança de software adequada aos riscos da organização
-
+- [OWASP Top 10 for LLM Applications](https://genai.owasp.org/llm-top-10/)
+    - Principais riscos de segurança em aplicações que usam LLMs (prompt injection, vazamento de dados sensíveis, poisoning, entre outros); também relevante para times de Segurança de Produtos que embarcam IA
 ---
 
 ## 🎬 Segurança de Conteúdo (Antipirataria, Vazamento e Ativos de Mídia)
