@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GloboSecWeek.png" allign="center" height=""/>
+  <img src="GloboSecLinks.png" allign="center" height=""/>
 </p>
 
 <p align="right">
